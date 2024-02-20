@@ -1,5 +1,5 @@
 ## About Me:
-Hi, my name is Miguel Fernandez, I am a Systems/SharePoint Analyst and I love the world of development. I'm 25 years old, Full-Stack Developer from Brasil!<br>I have seven years of experience working as a SharePoint/.Net Analyst and Developer.
+Hi, my name is Miguel Fernandez, I am a developer and systems/SharePoint Analyst and I love the world of development. Full-Stack Developer from Brasil!<br>I have nine years of experience working as a SharePoint/.Net Analyst and Developer.
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=miguelvfz&icon=5&color=12)](https://visitcount.itsvg.in) 
 
